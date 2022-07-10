@@ -72,10 +72,10 @@ class _CategoryViewState extends State<CategoryView> {
           children: [
             feature(productlist),
             Center(
-              child: Icon(Icons.account_circle),
+              child: Text("ICE CREAMS"),
             ),
             Center(
-              child: Icon(Icons.alarm),
+              child: Text("DAILY SPECIALS"),
             ),],
         ),
       ),
